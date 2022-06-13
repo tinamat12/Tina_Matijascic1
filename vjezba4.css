@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	background-color: cadetblue;
+	width: 450px;
+	padding: 16px;
+}
+h3 {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	color: brown
+}
+h1, h2 {
+	color: darkslategrey
+}
+body {
+	background-image:url("bijela.webp")
+}
